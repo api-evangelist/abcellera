@@ -1,0 +1,66 @@
+aid: abcellera
+name: AbCellera
+description: >-
+  AbCellera (NASDAQ: ABCL) is a Vancouver-based antibody discovery and
+  development company that integrates biology, computation, and engineering
+  to develop antibody-based medicines. Its technology platform combines
+  high-throughput single-cell antibody screening, GPCR and ion-channel
+  capabilities, bispecifics, antibody-drug conjugates, structure-based design,
+  and AI for sequence and structure analysis. The company operates a hybrid
+  business model with a co-development partner network (40+ partners and
+  100+ antibody drug programs since 2015) alongside a growing wholly-owned
+  pipeline that includes ABCL635 (non-hormonal vasomotor symptoms),
+  ABCL575 (atopic dermatitis), ABCL688 (autoimmunity), and ABCL386
+  (oncology), plus 20+ discovery programs. AbCellera does not publish a
+  public API or developer portal; capabilities are delivered through partner
+  collaborations and contract terms.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Antibody Discovery
+  - Biotech
+  - Pharmaceuticals
+  - Monoclonal Antibodies
+  - Bispecifics
+  - Antibody Drug Conjugates
+  - GPCR
+  - Ion Channels
+  - Single Cell
+  - Immunology
+  - Oncology
+  - Celium
+  - Partnerships
+  - Vancouver
+url: https://raw.githubusercontent.com/api-evangelist/abcellera/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.abcellera.com
+  - type: Technology
+    url: https://www.abcellera.com/technology
+  - type: Pipeline
+    url: https://www.abcellera.com/pipeline
+  - type: Partnerships
+    url: https://www.abcellera.com/partnerships
+  - type: Publications
+    url: https://www.abcellera.com/publications
+  - type: InvestorRelations
+    url: https://investors.abcellera.com
+  - type: Newsroom
+    url: https://www.abcellera.com/news
+  - type: Careers
+    url: https://www.abcellera.com/careers
+  - type: GitHubOrganization
+    url: https://github.com/AbCellera
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/abcellera-biologics-inc-
+  - type: Twitter
+    url: https://twitter.com/AbCellera
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
